@@ -10,10 +10,10 @@
   <a href="https://github.com/farhannazrull?tab=followers">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=farhannazrull" alt="visitors"/>
   </a>
-  <a href="https://linkedin.com/in/farhannazrull">
+  <a href="https://linkedin.com/in/farhannazrul">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue" />
   </a>
-  <a href="mailto:farhannazrulilhami@gmail.com">
+  <a href="mailto:farhanilhamni@gmail.com">
     <img src="https://img.shields.io/badge/Email-Active-red" />
   </a>
 </p>
@@ -80,12 +80,12 @@ Creative digital service studio producing design, editing, writing, and interact
 ## GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=nightowl&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=nightowl&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=farhannazrull&show_icons=true&theme=nightowl&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=farhannazrull&theme=nightowl&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=farhannazrull&theme=react-dark&hide_border=true" />
 </p>
 
 ---
