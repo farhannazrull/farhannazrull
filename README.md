@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/andreasbm/readme/raw/master/assets/lines/rainbow.png" width="100%" alt="header"/>
+  <img src="https://raw.githubusercontent.com/kevquirk/simple.css/master/assets/hero.png" width="100%" alt="header"/>
 </p>
+
 
 # Farhan Nazrul
 
