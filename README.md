@@ -1,6 +1,5 @@
-<!-- HEADER ILLUSTRATION -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/midudev/midudev/main/header-github.png" width="100%" alt="header illustration"/>
+  <img src="https://github.com/andreasbm/readme/raw/master/assets/lines/rainbow.png" width="100%" alt="header"/>
 </p>
 
 # Farhan Nazrul
