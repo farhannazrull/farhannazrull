@@ -1,62 +1,64 @@
+<!-- HEADER -->
 <p align="center">
-  <img src="https://github.com/andreasbm/readme/raw/master/assets/lines/rainbow.png" width="100%" alt="header"/>
+  <img src="https://raw.githubusercontent.com/Akshay090/readme-template/main/images/banner.png" width="100%" alt="header"/>
 </p>
 
 # Farhan Nazrul
-
-Creative technologist focused on user experience, mobile development, and modern digital product design.  
-Undergraduate Informatics Engineering student at Institut Teknologi Sepuluh Nopember (ITS).
-
----
-
-## Profile
-I work at the intersection of design and engineering, creating digital experiences that feel intentional, consistent, and human-centered.  
-My current focus is on interaction design, mobile interfaces, and AI-assisted user journeys.
+Creative technologist combining product design, mobile development, and modern user experience.  
+Informatics Engineering student at Institut Teknologi Sepuluh Nopember (ITS).
 
 ---
 
-## Projects
+## Overview
+I create digital products with a strong focus on interaction, clarity, and consistency.  
+My work spans across UI/UX design, mobile app development, creative direction, and AI-assisted experiences.
 
-### Movease  
-A modern cinema companion app emphasizing cinematic interaction design and consistent UI patterns.
+---
 
-### WoofBuddy  
-An empathy-driven AI companion that adapts emotional support principles inspired by service dogs.
+## Highlighted Projects
+**Movease**  
+A cinema app concept built with a cinematic experience and strong interaction flow.
 
-### Zenro  
-A minimalist wellness and productivity concept designed for a UI/UX competition with structured design methodology.
+**WoofBuddy**  
+An AI-driven emotional companion designed with empathy-first UX principles.
 
-### One2Many Studio  
-A creative digital studio offering design, editing, writing, and interactive media services.
+**Zenro**  
+A wellness and productivity concept app with structured design methodology.
+
+**One2Many Studio**  
+A creative studio delivering design, editing, writing, and interactive content services.
 
 ---
 
 ## Tools & Technologies
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter" height="48" />
-  <img src="https://skillicons.dev/icons?i=dart" height="48" />
-  <img src="https://skillicons.dev/icons?i=figma" height="48" />
-  <img src="https://skillicons.dev/icons?i=ts" height="48" />
-  <img src="https://skillicons.dev/icons?i=js" height="48" />
-  <img src="https://skillicons.dev/icons?i=react" height="48" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="48" />
-  <img src="https://skillicons.dev/icons?i=html" height="48" />
-  <img src="https://skillicons.dev/icons?i=css" height="48" />
-  <img src="https://skillicons.dev/icons?i=git" height="48" />
-  <img src="https://skillicons.dev/icons?i=github" height="48" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="48" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="48" />
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,figma,ts,js,react,nextjs,html,css,git,github,firebase,mysql,vscode,ps,ai&perline=8" />
 </p>
 
 ---
 
-## Core Skills
-- UI/UX Design  
-- Mobile Development (Flutter)  
-- Interaction Flows & Wireframing  
-- Prototyping & Design Systems  
-- Creative Direction & Visual Consistency  
+## Design & Development Focus
+- Mobile app architecture & Flutter development  
+- Interface design, layout, and interaction principles  
+- Design systems and scalable component structures  
+- High-fidelity prototyping & creative direction  
+- User research, rationale, and structured design decisions  
+
+---
+
+## GitHub Insights
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=nightowl&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=nightowl&hide_border=true" height="165"/>
+</p>
+
+---
+
+## Additional Work
+- Creative Associate at College Copilot  
+- UI/UX competition participant  
+- Winner of multiple choir competitions including Category Winner (Soegijapranata)  
+- Experience in visual communication, documentation, and creative project management  
 
 ---
 
@@ -64,3 +66,7 @@ A creative digital studio offering design, editing, writing, and interactive med
 Email: **farhannazrulilhami@gmail.com**  
 Instagram: **@farhannazrull**  
 LinkedIn: **linkedin.com/in/farhannazrull**
+
+<p align="center">
+  Always open to collaborations, creative projects, or product discussions.
+</p>
