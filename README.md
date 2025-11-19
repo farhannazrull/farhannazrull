@@ -1,74 +1,29 @@
-<h1 align="center">Farhan Nazrul — Creative Technologist</h1>
-<p align="center">
-  Where design, engineering, and storytelling meet.
-</p>
+# Farhan Nazrul
 
----
+Creative technologist focusing on design, engineering, and human-centered digital experiences.  
+Undergraduate Informatics Engineering student at ITS.
 
-## ✨ About Me
-I'm **Farhan**, an Informatics Engineering student at **ITS** who loves creating digital experiences that feel smooth, expressive, and human-centered.
+## About Me
+I work at the intersection of UI/UX, mobile development, and creative direction.  
+I enjoy building products that feel intentional, smooth, and meaningful for users.
 
-My work blends:
-- Mobile Development (Flutter)
-- UI/UX Design & Interaction Systems
-- Creative Direction
-- AI-assisted user experiences
+## Projects
+**Movease**  
+Cinema companion app with modern interaction design.
 
----
+**WoofBuddy**  
+AI-based emotional companion inspired by service dogs.
 
-## 🚀 What I'm Building
-### 🎬 Movease  
-A reimagined cinema companion app with a cinematic, modern UX.
+**Zenro**  
+Minimalist wellness and productivity app for UI/UX competition.
 
-### 🐶 WoofBuddy  
-An empathy-driven AI companion inspired by service dogs, focused on mental well-being.
+**One2Many Studio**  
+Digital creative studio for design, editing, writing, and interactive content.
 
-### 🌙 Zenro  
-A calm, minimalist wellness/productivity app designed for UI/UX competition.
+## Tech Stack
+Flutter, Dart, Figma, TypeScript, JavaScript, React, Next.js, HTML, CSS, Git, Firebase, MySQL.
 
-### ✨ One2Many Studio  
-A creative digital service studio providing design, editing, writing, and interactive content.
-
----
-
-## 🛠️ Tech & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,figma,ts,js,react,nextjs,html,css,git,github,firebase,mysql&perline=7" />
-</p>
-
----
-
-## 📊 GitHub Insights
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=farhannazrull&show_icons=true&theme=nightowl&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=farhannazrull&theme=nightowl&hide_border=true" />
-</p>
-
----
-
-## 🧩 Philosophy
-> *Great digital experiences feel effortless, intentional, and human.*
-
-I build products that reduce friction, communicate clearly, and bring warmth to tech.
-
----
-
-## 🎤 More About Me
-- 🏅 3× Choir Gold Medalist (including Category Winner – Soegijapranata)
-- 🎨 Creative Associate at College Copilot
-- 📍 From Banyuwangi, based in Surabaya
-- ❤️ In a relationship with Igel  
-- 🔥 Competitive UI/UX designer with a taste for clean, modern visuals  
-
----
-
-## 📫 Find Me
-- **Email:** farhannazrulilhami@gmail.com  
-- **Instagram:** @farhannazrull  
-- **LinkedIn:** linkedin.com/in/farhannazrull  
-
----
-
-<p align="center">
-  Thanks for dropping by — feel free to explore or connect!
-</p>
+## Contact
+Email: farhannazrulilhami@gmail.com  
+Instagram: @farhannazrull  
+LinkedIn: linkedin.com/in/farhannazrull
