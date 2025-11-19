@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Akshay090/readme-template/main/images/banner.png" width="100%" alt="header"/>
+  <img src="https://github.com/andreasbm/readme/raw/master/assets/lines/rainbow.png" width="100%" alt="header"/>
 </p>
 
 # Farhan Nazrul
