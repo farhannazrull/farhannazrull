@@ -1,50 +1,37 @@
-<!-- HEADER -->
 <h1 align="center">Farhan Nazrul — Creative Technologist</h1>
 <p align="center">
-  Blending design, engineering, and storytelling to build human-centered digital experiences.
-</p>
-
----
-
-<!-- BADGES -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile+Views&color=6f42c1&style=for-the-badge" />
+  Where design, engineering, and storytelling meet.
 </p>
 
 ---
 
 ## ✨ About Me
+I'm **Farhan**, an Informatics Engineering student at **ITS** who loves creating digital experiences that feel smooth, expressive, and human-centered.
 
-Hi! I'm **Farhan**, an Informatics Engineering student at **ITS** with a passion for crafting smooth, thoughtful, and visually engaging digital experiences.
-
-I love building products where **design meets engineering**, especially in:
-- Mobile Apps (Flutter)
-- AI-Assisted Experiences
-- UI/UX Systems & Interaction Design
-- Creative Direction & Branding
-
-Currently exploring how tech, creativity, and psychology can merge to create **emotion-aware digital tools**.
+My work blends:
+- Mobile Development (Flutter)
+- UI/UX Design & Interaction Systems
+- Creative Direction
+- AI-assisted user experiences
 
 ---
 
-## 🚀 Current Projects
+## 🚀 What I'm Building
+### 🎬 Movease  
+A reimagined cinema companion app with a cinematic, modern UX.
 
-### 🎬 **Movease**
-A modern cinema-experience companion app — focusing on seamless interaction and cinematic feel.
+### 🐶 WoofBuddy  
+An empathy-driven AI companion inspired by service dogs, focused on mental well-being.
 
-### 🐶 **WoofBuddy**
-AI-powered emotional companion inspired by service dogs, focused on mental health & empathy-driven design.
+### 🌙 Zenro  
+A calm, minimalist wellness/productivity app designed for UI/UX competition.
 
-### 🌙 **Zenro**
-A minimalist wellness & productivity experience designed for UI/UX competition.
-
-### ✨ **One2Many Studio**
-Creative digital studio offering design, editing, writing, and interactive web services.
+### ✨ One2Many Studio  
+A creative digital service studio providing design, editing, writing, and interactive content.
 
 ---
 
 ## 🛠️ Tech & Tools
-
 <p>
   <img src="https://skillicons.dev/icons?i=flutter,dart,figma,ts,js,react,nextjs,html,css,git,github,firebase,mysql&perline=7" />
 </p>
@@ -52,7 +39,6 @@ Creative digital studio offering design, editing, writing, and interactive web s
 ---
 
 ## 📊 GitHub Insights
-
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=nightowl&hide_border=true" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=nightowl&hide_border=true" />
@@ -61,34 +47,102 @@ Creative digital studio offering design, editing, writing, and interactive web s
 ---
 
 ## 🧩 Philosophy
+> *Great digital experiences feel effortless, intentional, and human.*
 
-> *“Good design feels effortless.  
-Good code feels invisible.  
-Great products feel human.”*
-
-I aim to build products that **reduce friction**, **increase clarity**, and **add warmth** to everyday digital interactions.
+I build products that reduce friction, communicate clearly, and bring warmth to tech.
 
 ---
 
-## 🎤 A Bit More About Me
-
-- 🏅 **3× Choir Gold Medalist** (incl. Category Winner — SCF)  
-- 🎨 Graphic designer & creative associate  
-- 📍 From Banyuwangi, living in Surabaya  
+## 🎤 More About Me
+- 🏅 3× Choir Gold Medalist (including Category Winner – Soegijapranata)
+- 🎨 Creative Associate at College Copilot
+- 📍 From Banyuwangi, based in Surabaya
 - ❤️ In a relationship with Igel  
-- 🎵 I find rhythm & flow in both music and UI/UX  
+- 🔥 Competitive UI/UX designer with a taste for clean, modern visuals  
 
 ---
 
-## 📫 Let’s Connect
-
-- ✉️ Email: **farhannazrul27@gmail.com**  
-- 💼 LinkedIn: *coming soon? I can help redesign it too if you want*  
-- 🎨 Dribbble/Behance: *upload Movease & Zenro soon, bakal keren banget*
+## 📫 Find Me
+- **Email:** farhannazrulilhami@gmail.com  
+- **Instagram:** @farhannazrull  
+- **LinkedIn:** linkedin.com/in/farhannazrull  
 
 ---
 
 <p align="center">
-  Thanks for stopping by! ⭐  
-  <br/>Feel free to explore, fork, or connect!
+  Thanks for dropping by — feel free to explore or connect!
+</p>
+<h1 align="center">Farhan Nazrul — Creative Technologist</h1>
+<p align="center">
+  Where design, engineering, and storytelling meet.
+</p>
+
+---
+
+## ✨ About Me
+I'm **Farhan**, an Informatics Engineering student at **ITS** who loves creating digital experiences that feel smooth, expressive, and human-centered.
+
+My work blends:
+- Mobile Development (Flutter)
+- UI/UX Design & Interaction Systems
+- Creative Direction
+- AI-assisted user experiences
+
+---
+
+## 🚀 What I'm Building
+### 🎬 Movease  
+A reimagined cinema companion app with a cinematic, modern UX.
+
+### 🐶 WoofBuddy  
+An empathy-driven AI companion inspired by service dogs, focused on mental well-being.
+
+### 🌙 Zenro  
+A calm, minimalist wellness/productivity app designed for UI/UX competition.
+
+### ✨ One2Many Studio  
+A creative digital service studio providing design, editing, writing, and interactive content.
+
+---
+
+## 🛠️ Tech & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,figma,ts,js,react,nextjs,html,css,git,github,firebase,mysql&perline=7" />
+</p>
+
+---
+
+## 📊 GitHub Insights
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=nightowl&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=nightowl&hide_border=true" />
+</p>
+
+---
+
+## 🧩 Philosophy
+> *Great digital experiences feel effortless, intentional, and human.*
+
+I build products that reduce friction, communicate clearly, and bring warmth to tech.
+
+---
+
+## 🎤 More About Me
+- 🏅 3× Choir Gold Medalist (including Category Winner – Soegijapranata)
+- 🎨 Creative Associate at College Copilot
+- 📍 From Banyuwangi, based in Surabaya
+- ❤️ In a relationship with Igel  
+- 🔥 Competitive UI/UX designer with a taste for clean, modern visuals  
+
+---
+
+## 📫 Find Me
+- **Email:** farhannazrulilhami@gmail.com  
+- **Instagram:** @farhannazrull  
+- **LinkedIn:** linkedin.com/in/farhannazrull  
+
+---
+
+<p align="center">
+  Thanks for dropping by — feel free to explore or connect!
 </p>
