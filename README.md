@@ -1,29 +1,67 @@
+<!-- HEADER ILLUSTRATION -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/midudev/midudev/main/header-github.png" width="100%" alt="header illustration"/>
+</p>
+
 # Farhan Nazrul
 
-Creative technologist focusing on design, engineering, and human-centered digital experiences.  
-Undergraduate Informatics Engineering student at ITS.
+Creative technologist focused on user experience, mobile development, and modern digital product design.  
+Undergraduate Informatics Engineering student at Institut Teknologi Sepuluh Nopember (ITS).
 
-## About Me
-I work at the intersection of UI/UX, mobile development, and creative direction.  
-I enjoy building products that feel intentional, smooth, and meaningful for users.
+---
+
+## Profile
+I work at the intersection of design and engineering, creating digital experiences that feel intentional, consistent, and human-centered.  
+My current focus is on interaction design, mobile interfaces, and AI-assisted user journeys.
+
+---
 
 ## Projects
-**Movease**  
-Cinema companion app with modern interaction design.
 
-**WoofBuddy**  
-AI-based emotional companion inspired by service dogs.
+### Movease  
+A modern cinema companion app emphasizing cinematic interaction design and consistent UI patterns.
 
-**Zenro**  
-Minimalist wellness and productivity app for UI/UX competition.
+### WoofBuddy  
+An empathy-driven AI companion that adapts emotional support principles inspired by service dogs.
 
-**One2Many Studio**  
-Digital creative studio for design, editing, writing, and interactive content.
+### Zenro  
+A minimalist wellness and productivity concept designed for a UI/UX competition with structured design methodology.
 
-## Tech Stack
-Flutter, Dart, Figma, TypeScript, JavaScript, React, Next.js, HTML, CSS, Git, Firebase, MySQL.
+### One2Many Studio  
+A creative digital studio offering design, editing, writing, and interactive media services.
+
+---
+
+## Tools & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter" height="48" />
+  <img src="https://skillicons.dev/icons?i=dart" height="48" />
+  <img src="https://skillicons.dev/icons?i=figma" height="48" />
+  <img src="https://skillicons.dev/icons?i=ts" height="48" />
+  <img src="https://skillicons.dev/icons?i=js" height="48" />
+  <img src="https://skillicons.dev/icons?i=react" height="48" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="48" />
+  <img src="https://skillicons.dev/icons?i=html" height="48" />
+  <img src="https://skillicons.dev/icons?i=css" height="48" />
+  <img src="https://skillicons.dev/icons?i=git" height="48" />
+  <img src="https://skillicons.dev/icons?i=github" height="48" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="48" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="48" />
+</p>
+
+---
+
+## Core Skills
+- UI/UX Design  
+- Mobile Development (Flutter)  
+- Interaction Flows & Wireframing  
+- Prototyping & Design Systems  
+- Creative Direction & Visual Consistency  
+
+---
 
 ## Contact
-Email: farhannazrulilhami@gmail.com  
-Instagram: @farhannazrull  
-LinkedIn: linkedin.com/in/farhannazrull
+Email: **farhannazrulilhami@gmail.com**  
+Instagram: **@farhannazrull**  
+LinkedIn: **linkedin.com/in/farhannazrull**
