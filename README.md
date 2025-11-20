@@ -47,35 +47,37 @@ I create digital products that combine **design precision**, **smooth interactio
 <tr>
 <td width="50%">
 
-### 🎬 Movease
+### Movease
 Cinema companion app with modern cinematic UI, structured design, and refined interaction flow.
 
-**Tech:** Figma • Design Systems
+**Tech:** Flutter • Dart • Firebase
 
 </td>
 <td width="50%">
 
-### 🎬 Surabaya HisTOURy
-Cinema companion app with modern cinematic UI, structured design, and refined interaction flow.
+### Surabaya HisTOURy
+Tourism platform connecting visitors with Surabaya's rich historical sites through interactive digital experiences.
 
-**Tech:** Figma • Design Systems 
+**Tech:** Flutter • Firebase • Maps API
 
 </td>
+</tr>
+
+<tr>
 <td width="50%">
 
-### 🦮 Zenro
+### Zenro
 AI-driven emotional companion app inspired by service dog behavior and empathetic UX patterns.
 
-**Tech:** Figma • Design Systems
+**Tech:** Flutter • AI/ML • Figma
 
 </td>
 <td width="50%">
 
-### 🎨 one2many Studio
-Creative digital service studio producing design, editing, writing, and interactive media.
+### one2many Studio
+Creative digital service studio producing design, editing, writing, and interactive media for diverse clients.
 
 **Services:** Branding • Content • Digital Design
-
 
 </td>
 </tr>
