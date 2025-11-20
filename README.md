@@ -185,7 +185,7 @@ Creative digital service studio producing design, editing, writing, and interact
 
 I'm always open to discussing **new projects**, **creative ideas**, or opportunities to be part of your vision.
 
-**📧 Email:** [farhannazrulilhami@gmail.com](mailto:farhannazrulilhami@gmail.com)  
+**📧 Email:** [farhannazrulilhami@gmail.com](mailto:farhanilhamni@gmail.com)  
 **💼 LinkedIn:** [linkedin.com/in/farhannazrul](https://linkedin.com/in/farhannazrul)  
 **📱 Instagram:** [@farhannazrull](https://instagram.com/farhannazrull)
 
