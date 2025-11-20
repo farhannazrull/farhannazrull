@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Farhan Nazrul
+# Hi, I'm Farhan Nazrul
 
 ### Creative Technologist • UI/UX Designer • Mobile Developer
 
@@ -8,7 +8,7 @@
   <a href="https://linkedin.com/in/farhannazrul">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:farhannazrulilhami@gmail.com">
+  <a href="mailto:farhanilhamni@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://instagram.com/farhannazrull">
@@ -22,15 +22,15 @@
 
 ---
 
-## 🎨 About Me
+## About Me
 
 ```typescript
 const farhan = {
     role: "Creative Technologist",
     focus: ["UI/UX Design", "Mobile Development", "Digital Products"],
     passion: "Building experiences that feel clean, intentional, and expressive",
-    location: "Indonesia 🇮🇩",
-    currentlyWorking: "Creative Associate @ College Copilot",
+    location: "Surabaya, Indonesia",
+    currentlyWorking: "UI/UX Designer @ Flexoo Software House",
     openTo: "Collaboration & Creative Product Work"
 };
 ```
@@ -39,7 +39,7 @@ I create digital products that combine **design precision**, **smooth interactio
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
