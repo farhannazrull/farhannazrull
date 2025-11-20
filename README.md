@@ -52,48 +52,22 @@ Cinema companion app with modern cinematic UI, structured design, and refined in
 
 **Tech:** Flutter • Dart • Firebase
 
-<a href="https://github.com/farhannazrull/Movease">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=farhannazrull&repo=Movease&theme=react&hide_border=true&bg_color=0D1117" />
-</a>
-
 </td>
 <td width="50%">
 
-### 🐕 WoofBuddy
+### 🦮 Zenro
 AI-driven emotional companion app inspired by service dog behavior and empathetic UX patterns.
-
-**Tech:** Flutter • AI/ML • UX Research
-
-<a href="https://github.com/farhannazrull/WoofBuddy">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=farhannazrull&repo=WoofBuddy&theme=react&hide_border=true&bg_color=0D1117" />
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🧘 Zenro
-Minimalist wellness & productivity system designed for competition-grade UI/UX pipelines.
 
 **Tech:** Figma • Design Systems • Flutter
 
-<a href="https://github.com/farhannazrull/Zenro">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=farhannazrull&repo=Zenro&theme=react&hide_border=true&bg_color=0D1117" />
-</a>
-
 </td>
 <td width="50%">
 
-### 🎨 One2Many Studio
+### 🎨 one2any Studio
 Creative digital service studio producing design, editing, writing, and interactive media.
 
 **Services:** Branding • Content • Digital Design
 
-<a href="https://github.com/farhannazrull/One2Many">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=farhannazrull&repo=One2Many&theme=react&hide_border=true&bg_color=0D1117" />
-</a>
 
 </td>
 </tr>
