@@ -2,7 +2,7 @@
 
 # Hi, I'm Farhan Nazrul
 
-### Creative Technologist • UI/UX Designer • Mobile Developer
+### Software Engineer • UI/UX Designer • Project Manager
 
 <p>
   <a href="https://linkedin.com/in/farhannazrul">
