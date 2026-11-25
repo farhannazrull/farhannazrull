@@ -21,7 +21,7 @@
 
 ## 👋 Hello
 
-I design and build digital products that feel **clean, intentional, and expressive**. My work lives between UI/UX, frontend and mobile development, and design systems, and I like owning an idea from the first sketch to the shipped screen.
+I design and build apps and websites, from the first sketch to the shipped screen. I work across UI/UX, frontend, mobile, and design systems.
 
 <table>
 <tr>
@@ -38,7 +38,7 @@ I design and build digital products that feel **clean, intentional, and expressi
 **🎯 Looking for**
 - Frontend roles and internships
 - Creative product collaborations
-- Teams that care about craft and UX
+- Teams where design and code work side by side
 
 </td>
 </tr>
@@ -53,14 +53,14 @@ I design and build digital products that feel **clean, intentional, and expressi
 <td width="50%" valign="top">
 
 ### 🎬 Movease
-Cinema companion app with a cinematic UI and a refined interaction flow.
+Cinema companion app with a movie-themed UI.
 <br/>**Flutter · Dart · Firebase**
 
 </td>
 <td width="50%" valign="top">
 
 ### 🐕 Zenro
-AI-driven emotional companion, inspired by service-dog behavior and empathetic UX patterns.
+Emotional companion app with an AI layer. Its behavior is modeled on service dogs.
 <br/>**Flutter · AI/ML · Figma**
 
 </td>
@@ -69,7 +69,7 @@ AI-driven emotional companion, inspired by service-dog behavior and empathetic U
 <td colspan="2" valign="top">
 
 ### 🎨 one2many Studio
-Boutique creative studio producing branding, content, digital design, and interactive media for diverse clients.
+The studio I co-founded. We do branding, content, digital design, and interactive media for clients.
 <br/>**Branding · Content · Digital Design**
 
 </td>
@@ -100,7 +100,7 @@ Boutique creative studio producing branding, content, digital design, and intera
 
 <br/>
 
-## ✨ What I Bring
+## ✨ Skills
 
 | 🎨 Design | 💻 Development | 🧭 Leadership |
 |:----------|:---------------|:--------------|
@@ -137,9 +137,9 @@ Boutique creative studio producing branding, content, digital design, and intera
 
 <div align="center">
 
-### 🤝 Let's build something
+### 🤝 Contact
 
-Got an idea, a project, or an opening for a frontend intern? Say hi.
+Have a project, or an opening for a frontend intern? Send me an email.
 
 <a href="mailto:farhanilhamni@gmail.com"><img src="https://img.shields.io/badge/Say%20hi-farhanilhamni%40gmail.com-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/></a>
 
