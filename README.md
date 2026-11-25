@@ -22,10 +22,17 @@ More on GitHub: [dockdockan](https://github.com/farhannazrull/dockdockan) (Swift
 
 ## Stack
 
-- **Design:** Figma, Adobe XD, Photoshop, Illustrator, Premiere Pro
-- **Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML, CSS
-- **Mobile:** Flutter, Dart, Swift, Kotlin
-- **Backend and tools:** Firebase, MySQL, Git
+**Design**<br>
+<img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,pr" height="40" alt="Figma, Adobe XD, Photoshop, Illustrator, Premiere Pro">
+
+**Frontend**<br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css" height="40" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML, CSS">
+
+**Mobile**<br>
+<img src="https://skillicons.dev/icons?i=flutter,dart,swift,kotlin" height="40" alt="Flutter, Dart, Swift, Kotlin">
+
+**Backend and tools**<br>
+<img src="https://skillicons.dev/icons?i=firebase,mysql,git" height="40" alt="Firebase, MySQL, Git">
 
 ## Other
 
